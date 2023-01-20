@@ -32,7 +32,7 @@ public class Main {
 
         ArrayList<Rectangle> rectangles = new ArrayList<>();
 
-        LinkedList<Circle> circles = new LinkedList<Circle>();
+        LinkedList<Circle> circles = new LinkedList<>();
 
         LinkedList<Triangle> triangles = new LinkedList<>();
 
